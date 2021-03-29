@@ -1,3 +1,5 @@
+#Code based on a Dino Game workshop by Kurius
+from Kurius
 import pygame, random
 
 pygame.init()
